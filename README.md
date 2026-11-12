@@ -1,4 +1,4 @@
-# shortly
+# shortly hello
 
 A tiny link shortener for campaigns. Paste a long URL, get a short `/code` that
 redirects to it; an admin endpoint reports usage. Built for the DevSecOps course
